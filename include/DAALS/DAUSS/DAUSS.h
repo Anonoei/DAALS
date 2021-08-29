@@ -10,11 +10,11 @@
 //----==============================================================================================~~~~
 //----=----------------------------------  version 0.0.1a  ----------------------------------------=----
 //----==============================================================================================----
-//	Author: Devon Adams (https://github.com/devonadams)
+//	Author: Anonoei (https://github.com/anonoei)
 //	License : GPLv3
 //	Language: C++17
 //	Dependencies: A Sandbox Application
-//	DAUSS - Devon Adams Universal Sound System
+//	DAUSS - DA Universal Sound System
 //	  DAUSS serves as an abstracted class for music and sound generation
 //	This contains:
 //	  MASAE - Music And Sound Ambient Engine

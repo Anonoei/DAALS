@@ -10,11 +10,11 @@
 //----==============================================================================================~~~~
 //----=----------------------------------  version 0.0.1a  ----------------------------------------=----
 //----==============================================================================================----
-//	Author: Devon Adams (https://github.com/devonadams)
+//	Author: Anonoei (https://github.com/anonoei)
 //	License : GPLv3
 //	Language: C++17
 //	Dependencies: A Sandbox Application
-//	DAUMS - Devon Adams Universal Health Management System
+//	DAUMS - DA Universal Health Management System
 //	  DAUMS serves as an abstracted class for health management
 //	This contains:
 //	  HARE - Health Automated Realism Engine

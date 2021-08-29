@@ -10,11 +10,11 @@
 //----==============================================================================================~~~~
 //----=----------------------------------  version 0.0.1a  ----------------------------------------=----
 //----==============================================================================================----
-//	Author: Devon Adams (https://github.com/devonadams)
+//	Author: Anonoei (https://github.com/anonoei)
 //	License : GPLv3
 //	Language: C++17
 //	Dependencies: A Sandbox Application
-//	DAALS - Devon Adams Asset Library Systemics
+//	DAALS - DA Asset Library Systemics
 //	  DAALS are various abstracted DAGGer libraries that serve specific tasks
 //	  They are intended to be systemic (IE work together and know of eachother) but don't have to
 /*

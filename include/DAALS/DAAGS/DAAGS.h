@@ -10,11 +10,11 @@
 //----==============================================================================================~~~~
 //----=----------------------------------  version 0.0.1a  ----------------------------------------=----
 //----==============================================================================================----
-//	Author: Devon Adams (https://github.com/devonadams)
+//	Author: Anonoei (https://github.com/anonoei)
 //	License : GPLv3
 //	Language: C++17
 //	Dependencies: A Sandbox Application
-//	DAAGS - Devon Adams Asset Generation System
+//	DAAGS - DA Asset Generation System
 //	  DAAGS serves as an abstracted system for automated asset generation, such as Seeded/Random maps, and weather
 //	This contains:
 //	  LARG - Library Automated Random Generation

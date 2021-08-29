@@ -10,11 +10,11 @@
 //----==============================================================================================~~~~
 //----=----------------------------------  version 0.0.1a  ----------------------------------------=----
 //----==============================================================================================----
-//	Author: Devon Adams (https://github.com/devonadams)
+//	Author: Anonoei (https://github.com/anonoei)
 //	License : GPLv3
 //	Language: C++17
 //	Dependencies: A Sandbox Application
-//	DAINS - Devon Adams Intelligent Networking System
+//	DAINS - DA Intelligent Networking System
 //	  DAINS serves as an abstracted class for A.I. and machine learning
 //	This contains:
 //	  NIANN - Networked Intelligent Artificial Neural Engine

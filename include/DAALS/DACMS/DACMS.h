@@ -10,11 +10,11 @@
 //----==============================================================================================~~~~
 //----=----------------------------------  version 0.0.1a  ----------------------------------------=----
 //----==============================================================================================----
-//	Author: Devon Adams (https://github.com/devonadams)
+//	Author: Anonoei (https://github.com/anonoei)
 //	License : GPLv3
 //	Language: C++17
 //	Dependencies: A Sandbox Application
-//	DACMS - Devon Adams Color Management System
+//	DACMS - DA Color Management System
 //	  DAAGS serves as an abstracted system for automated asset generation, such as Seeded/Random maps, and weather
 //	This contains:
 //	  CAPE - Color Automated Picking Engine
